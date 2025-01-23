@@ -10,7 +10,7 @@
 ### Collage 02
 
 ![Collage 02](surreal_collage_02.png)  
-"Colorful capybaras swimming in a lagoon and smoking cigarettes, there is a lot of grass around, smoke swirling in the air, music noted shaped fireworks in the sky, in the style of Joan Miro, hyperrealistic textures, expressive lighting."
+"Colorful capybara swimming in a lagoon and smoking cigarettes, there is a lot of grass around, smoke swirling in the air, music note shaped fireworks in the sky, in the style of Joan Miro, hyperrealistic textures, expressive lighting."
 
 ### Collage 03
 
