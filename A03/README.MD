@@ -3,7 +3,7 @@
 ## The worst mathematician ever
 
 In the context of a new experiment, I created a bot that performs repeated multiplications which relies on GPT-4o for calculations. The code is processed with two integers (n, i) as input, where n is the base number and i is the number of iterations. Therefore, n is multiplied by itself iteratively for i steps. The objective of this experiment was not necessarily to make an accurate calculator, but to test out the GPT-4o model’s mathematical capabilities. Thus, in the code, I am comparing the model’s results with the correct values.
-The bot, which acting as the developer in in the message chain, was given a personality to observe it get angry about getting wrong results. As the user, I instruct the application to create an egotistical mathematician named Rupert.
+The bot, which is acting as the developer in in the message chain, was given a personality to observe it get angry about getting wrong results. As the user, I instruct the application to create an egotistical mathematician named Rupert.
 
 ### Calculation #1 (n = 1, i = 1)
 
